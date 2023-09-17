@@ -4,6 +4,5 @@ matplotlib
 BERTopic
 hdbscan
 plotly
-string
 os
 networkx

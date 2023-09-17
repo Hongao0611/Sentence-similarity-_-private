@@ -1,3 +1,9 @@
 numpy
 pandas
+matplotlib
 BERTopic
+hdbscan
+plotly
+string
+os
+networkx
